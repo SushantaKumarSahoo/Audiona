@@ -32,7 +32,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center gap-2 mr-0 sm:mr-4">
           <img src="/savan-logo.png" alt="logo" width={37} />
           <Link to="/" className="font-extrabold text-lg">
-            JioSaavn
+            Audiona
           </Link>
         </div>
         <div className="flex text-[18px] sm:text-[24px] lg:text-[15px] gap-3 sm:gap-5 text-gray-600 font-semibold h-full mt-2 sm:mt-0">
